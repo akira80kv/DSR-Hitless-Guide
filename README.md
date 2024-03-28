@@ -368,7 +368,7 @@ Equip the dragon ring again and then run over to the elevator. (Hug the right wa
 
 The archer at the left can be passed through his left, get to the elevator and immediately turn it on.
 
-# Duke Skip:
+## Duke Skip:
 
 - At the top, turn lever on again, immediately center camera with right camera joystick button, and also immediately start aiming your bow like so:
 
