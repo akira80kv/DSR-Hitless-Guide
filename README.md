@@ -2,16 +2,16 @@
 
 ---
 
-by Akira80kv
+by Akira80kv, Huge thanks to Carlo and other runners for clearing up info & giving suggestions!
 
 Inspired by Carlo’s guide:
 
 https://youtu.be/XRFt49_IMg8?si=E2o1Aj-Mktjk_tpH
 
-# Important Stuff
+# Useful Tech
 
-- When running, most of the time you should be holding block, changes hitbox, prevents you from jumping, etc
-- Every time when falling, you should switch right hand weapons mid air, and quickly press your dodge button twice (second time hold) to cancel the fall animation when you hit the floor.
+- When running, holding block will fasten the sprint start up animation. It also changes the hitbox of your player and will sometimes make you get hit! Use it carefully :)
+- Every time when falling, switching weapons mid air, and quickly pressing your dodge button once cancels the fall animation when you hit the floor!
 
 ## Tools
 
@@ -623,7 +623,7 @@ Here change to RTSR and Hornet Ring
 
 ![Untitled](DS1R%20No%20Hit%20214cd1d64795462f95079ef33d2acf2e/Untitled%20127.png)
 
-Go forward and roll to the right of the knight, and keep running down the stairs. Strafe the first knight to the left and the other knight to the right, and enter the fog. Roll once and lock on, walk forward and parry his first attack. Walk behind him and when he is fully stood up do 3 rolls, and walk back until he finishes his attack, then walk forward and parry again. Then, an R1 kills him.
+Go forward and walk once in a quick circle to aggro the knight and have a better position to run past him. Then just run to his left. Keep running down the stairs. Strafe the first knight to the left and the other knight to the right, and enter the fog. Roll once and lock on, walk forward and parry his first attack. Walk behind him and when he is fully stood up do 3 rolls, and walk back until he finishes his attack, then walk forward and parry again. Then, an R1 kills him.
 
 You can also use a green blossom or consumables like egg fermifuge when hes at the floor to make him normally do the slow attack but its not 100%
 
