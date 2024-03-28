@@ -8,12 +8,12 @@ Inspired by Carlo’s guide:
 
 https://youtu.be/XRFt49_IMg8?si=E2o1Aj-Mktjk_tpH
 
-Important Stuff
+# Important Stuff
 
 - When running, most of the time you should be holding block, changes hitbox, prevents you from jumping, etc
 - Every time when falling, you should switch right hand weapons mid air, and quickly press your dodge button twice (second time hold) to cancel the fall animation when you hit the floor.
 
-Tools
+## Tools
 
 - [https://github.com/Kahmul/SoulsSpeedruns-Save-Organizer](https://github.com/Kahmul/SoulsSpeedruns-Save-Organizer)
 
@@ -21,7 +21,8 @@ Here are both the black knight jump and duke skip, as well as most bosses:
 
 [https://www.youtube.com/watch?v=b_FeHSmTmjY](https://www.youtube.com/watch?v=b_FeHSmTmjY)
 
-Character Creation
+# Guide
+## Character Creation
 
 ![Untitled](DS1R%20No%20Hit%20214cd1d64795462f95079ef33d2acf2e/Untitled.png)
 
@@ -41,6 +42,8 @@ After getting flasks, open door and leave.
 
 At firelink, grab the humanities, down the elevator hole, grab homeward bones and loyd talisman, and bone out.
 
+## Dragons & Grass Crest Shield
+
 ![Untitled](DS1R%20No%20Hit%20214cd1d64795462f95079ef33d2acf2e/Untitled%204.png)
 
 ![Untitled](DS1R%20No%20Hit%20214cd1d64795462f95079ef33d2acf2e/Untitled%205.png)
@@ -53,7 +56,7 @@ Jump here, and when youre on top of the broken wall switch weapons like mentione
 
 ![Untitled](DS1R%20No%20Hit%20214cd1d64795462f95079ef33d2acf2e/Untitled%207.png)
 
-Now, pick up the soul behind the door, and go forward until you reach the dragons. 
+Now, pick up the soul behind the door, and go forward.
 
 ![Untitled](DS1R%20No%20Hit%20214cd1d64795462f95079ef33d2acf2e/Untitled%208.png)
 
@@ -77,6 +80,7 @@ Sprint against the wall and jump, grab grass shield.
 
 Up ahead grab the bow, and further up kill the lizard with a BFB and an r1.
 
+## Undead Parish
 At undead parish first time buy:
 
 6 titanites, axe, upgrade to +4
@@ -101,8 +105,9 @@ Then, you can either shoot the next guy, or run past him.
 
 At gargoyles, note you should have RTSR. Go to the right of the ceiling, and strafe the first gargoyle's hit. Ideally, cut his tale. Every 2 hits he should be stunned and die fairly easy. The second gargoyle will probably do the fire attack. R2 + R1 kills it.
 
-Ring the bell and homeward bone out, returning to firelink. Level STR to 20
+Ring the bell and homeward bone out, returning to firelink. Level STR to 20.
 
+## Blighttown
 This time don't go on the wall, just down the stairs. Kick lautrec through the window, and quit out to get the FAP ring. Now, go to the elevator again, after elevator, using the humanities at the elevator, you should have 11. Doing the wall jump, go to blighttown!! Woohooo!!
 
 Stand in this log, and walk slowly towards the edge. When you start falling down the slope quickly, immediately spam roll and keep the joystick to the left. 
@@ -130,6 +135,7 @@ Use her soul
 
 Heal up and down the hole, and go to ceaseless. Straightforward, just run and hit him with your fist.
 
+## Sen's
 Homeward bone, take the elevator to undead parish, and level both axe and bow to +5, and buy 135 arrows or so.
 
 Go up sens. You have to go fairly quickly, roll the lightning bolt the snake throws, and through the fog. Then, go fast up the stairs and fall down at this spot:
@@ -180,6 +186,7 @@ Stand on the left side of the golem at the start, running at him.
 
 Then, hit his right ankle, the one on your left, twice. He will stagger. Hit him a couple more times with R2s when hes in the floor. Use his soul when you kill him and go to anor londo.
 
+## Anor Londo
 Here, shoot the mimic after going past the elevator, to around the 4th tile:
 
 ![Untitled](DS1R%20No%20Hit%20214cd1d64795462f95079ef33d2acf2e/Untitled%2026.png)
@@ -282,6 +289,7 @@ Kill her with an arrow
 
 ![Untitled](DS1R%20No%20Hit%20214cd1d64795462f95079ef33d2acf2e/Untitled%2049.png)
 
+## Catacombs
 Level dex to 35 and warp to firelink, place the lordvessel. Then, warp back to firelink and run to the catacombs. Bait this guy back to the staircase and kill him.
 
 ![Untitled](DS1R%20No%20Hit%20214cd1d64795462f95079ef33d2acf2e/Untitled%2050.png)
@@ -334,6 +342,7 @@ Immediately rest and head up the stairs, now, go to patches, as shown:
 
 Hug the left wall after going up the stairs and dont talk to him, trigger the cutscene, grab the 3 items and bone out. At the bonfire use the souls and get 37 dex.
 
+## Fog Ring
 Warp to firelink and at the shortcut elevator for undead parish, drop down and over to this pillar:
 
 ![Untitled](DS1R%20No%20Hit%20214cd1d64795462f95079ef33d2acf2e/Untitled%2065.png)
@@ -344,7 +353,8 @@ Drop down to the pillar by rolling, then up the stairs to get to the nest. Once 
 
 ![Untitled](DS1R%20No%20Hit%20214cd1d64795462f95079ef33d2acf2e/Untitled%2067.png)
 
-Equip the ring of fog where the FAP ring is. Bone out and traver to Anor Londo. Follow the stairs up where you got the halberd by the mimic, until you get to the duke’s archives. Stand at more or less the 4th pillar and shoot here WITHOUT the dragon ring:
+## Duke's Archives
+Equip the ring of fog where the FAP ring is. Bone out and travel to Anor Londo. Follow the stairs up where you got the halberd by the mimic, until you get to the duke’s archives. Stand at more or less the 4th pillar and shoot here WITHOUT the dragon ring:
 
 ![Untitled](DS1R%20No%20Hit%20214cd1d64795462f95079ef33d2acf2e/Untitled%2068.png)
 
@@ -358,7 +368,7 @@ Equip the dragon ring again and then run over to the elevator. (Hug the right wa
 
 The archer at the left can be passed through his left, get to the elevator and immediately turn it on.
 
-Duke Skip:
+# Duke Skip:
 
 - At the top, turn lever on again, immediately center camera with right camera joystick button, and also immediately start aiming your bow like so:
 
@@ -426,6 +436,7 @@ Wait a bit and when Seath is closer to you, shoot an arrow straight. Should brea
 
 After the run attack, recover stamina and hit him 3 times. Recover stamina again and hit him 3 more times. Scripted Seath!
 
+## Nito
 At the bonfire, Dex 40 and Endurance 11. Then warp to tomb of the giants.
 
 Back at patches, talk to him and say no to get 1 twin humanity
@@ -478,6 +489,7 @@ Once hes here, strafe most of his attacks and do MAX 3 r1s at a time. Pretty eas
 
 ![Untitled](DS1R%20No%20Hit%20214cd1d64795462f95079ef33d2acf2e/Untitled%20101.png)
 
+## Sif
 After the fight bone out and warp to undead parish, use your souls and level up endurance until you are left with 20k souls for the crest. Buy it from andre.
 
 ![Untitled](DS1R%20No%20Hit%20214cd1d64795462f95079ef33d2acf2e/Untitled%20102.png)
@@ -512,6 +524,7 @@ Tips:
 - After punishing be ready to dodge his jump back or any other attack like his uppercut.
 - He can hit you with his paws when jumping and that counts as a hit!
 
+## Ghost Town & 4 Kings
 After killing him bone out, and use his soul. Endurance to 17. Then warp to firelink. Go down the elevator to the ghost town, use your humanities while going down to have 27 humanities. 
 
 Break this and grab the transient curse, use it.
@@ -546,6 +559,7 @@ You should have RTSR, equip it and the artorias ring.
 
 Punish almost every move, just roll and attack them. If the does the homing missile don’t dodge because it’s impossible. Just run as fast as you can and get close to the king and pray it doesn’t hit you..
 
+## Bed of Chaos
 Bone out and to undead parish, level endurance to 20 and use 4 humanities you have to get 31. Then, warp to firelink. Equip both stealth rings, go back all the way like done before in blighttown to get to the bell, then roll here and say YES to the egg guy, and rest at the bonfire where queelag’s sister is.
 
 ![Untitled](DS1R%20No%20Hit%20214cd1d64795462f95079ef33d2acf2e/Untitled%20113.png)
@@ -592,6 +606,7 @@ After that BFB throw another one here, in your right side:
 
 Immediately start rolling inside until your stamina is gone, and switch to your fist, then wait till stamina is back up and roll more, then kill the bug inside. After the fight warp to firelink. Place souls on the vessel and level endurance up to around 23.
 
+## Kiln & Gwyn
 At the kiln jump here:
 
 ![Untitled](DS1R%20No%20Hit%20214cd1d64795462f95079ef33d2acf2e/Untitled%20124.png)
@@ -611,3 +626,5 @@ Here change to RTSR and Hornet Ring
 Go forward and roll to the right of the knight, and keep running down the stairs. Strafe the first knight to the left and the other knight to the right, and enter the fog. Roll once and lock on, walk forward and parry his first attack. Walk behind him and when he is fully stood up do 3 rolls, and walk back until he finishes his attack, then walk forward and parry again. Then, an R1 kills him.
 
 You can also use a green blossom or consumables like egg fermifuge when hes at the floor to make him normally do the slow attack but its not 100%
+
+GGs.
