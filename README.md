@@ -8,6 +8,10 @@ Inspired by Carlo’s guide:
 
 https://youtu.be/XRFt49_IMg8?si=E2o1Aj-Mktjk_tpH
 
+# Rules
+The run uses Team Hitless's rules, you can find them here:
+https://www.teamhitless.com/games/fromsoftware-games/dark-souls/
+
 # Useful Tech
 
 - When running, holding block will fasten the sprint start up animation. It also changes the hitbox of your player and will sometimes make you get hit! Use it carefully :)
@@ -87,6 +91,7 @@ At undead parish first time buy:
 
 Kill the first 3 enemies, and strafe the big sentinel guy to his right, and hit his back 2 to 3 times with +4 axe.
 
+Pressing up on the Dpad will zoom in your bow!
 Now, stand here and kill with your bow the magic enemy and the 2 undeads. Shooting at the sword of the one on the right kills it. Then open the shortcut elevator and come back.
 
 ![Untitled](DS1R%20No%20Hit%20214cd1d64795462f95079ef33d2acf2e/Untitled%2011.png)
