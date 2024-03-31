@@ -284,12 +284,18 @@ Go through this part of the fog and immediately roll and stand about here:
 
 ![Untitled](DS1R%20No%20Hit%20214cd1d64795462f95079ef33d2acf2e/Untitled%2047.png)
 
+# Super Smough
 Some things might happen. Ideally, Ornstein will do his charged attack. You can just walk to the right to make him miss and hit him once. Any other attack roll and R1. Make sure smough is always behind the pillar, 3 hits kills him.
 
 During second phase go to this pillar and be parallel to Smough. When he does his overhead jump attack, run hit him and go back behind the pillar. Use his soul.
-
 ![Untitled](DS1R%20No%20Hit%20214cd1d64795462f95079ef33d2acf2e/Untitled%2048.png)
 
+# Super Ornstein
+Same thing, dodge to the right and after orn's first attack, run over to smough. You should always be able to see ornstein. When you see the oportunity, hit smough.
+
+During second phase, stay close to orn's left leg and dodge his moves, and hit him until he dies!
+
+---
 Kill her with an arrow
 
 ![Untitled](DS1R%20No%20Hit%20214cd1d64795462f95079ef33d2acf2e/Untitled%2049.png)
@@ -561,8 +567,13 @@ Go into the fog wall and walk down in this direction, to fall over to the platfo
 You should have RTSR, equip it and the artorias ring. 
 
 4 Kings Tips:
+When you fall, drop an item and move forward. When the music starts and boss spawns, drop another one. After killing the first king, look at the item you dropped:
+* The 2nd king will spawn to the left of the item, pretty far away from it.
+* The 3rd king will spawn to the right of the item, far away from it too. 
 
-Punish almost every move, just roll and attack them. If the does the homing missile don’t dodge because it’s impossible. Just run as fast as you can and get close to the king and pray it doesn’t hit you..
+You can hit the 4 kings while they are spawning to kill them faster and easier!
+
+Punish almost every move, just roll and attack them. You can also strafe most moves. If the does the homing missile don’t roll because it’s impossible. Just run as fast as you can and dodge it by doing a small strafe to the left.
 
 ## Bed of Chaos
 Bone out and to undead parish, level endurance to 20 and use 4 humanities you have to get 31. Then, warp to firelink. Equip both stealth rings, go back all the way like done before in blighttown to get to the bell, then roll here and say YES to the egg guy, and rest at the bonfire where queelag’s sister is.
